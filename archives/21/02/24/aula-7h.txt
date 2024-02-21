@@ -1,0 +1,28 @@
+    O primeiro passo para o desenvolvimento é a análise da tarefa a ser feita
+EU TENHO QUE SABER RESOLVER O PROBLEMA!!!
+Depois disso, devemos fazê-la algoritmicamente, e após elaborarmos o algoritmo, devemos transcrevermos em uma linguagem de programação
+Você verá que é apenas uma tradução.
+
+1- Devemos sempre pensar nos limites de início e fim das instruções que vamos passar
+2- Devemos indentificar o objetivo do algoritmo
+3- Quebramos o algoritmo em etapas
+
+
+Regras para definição de variáveis:
+    Mantenha os nomes significativos, não seja vago para facilitar a leitura do código
+    Nomeie apenas com nomes, números e _
+    O nome deve começar com um caractere ou _
+    Sem espaços.
+    Sem caracteres especias &, %, $, etc...
+    Não utilize palavras reservadas da linguagem (Em C por exemplo: float, int, class, void, etc...)
+
+Tipos de dados: 
+    Integer (int): números inteiros apenas
+    float (float): números reais, decimais etc...
+    string (string): Texto, palavras. ==>    int 5 É DIFERENTE DE  string '5'
+
+
+
+
+
+
